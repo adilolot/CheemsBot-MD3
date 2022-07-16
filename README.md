@@ -1,4 +1,4 @@
-<h1 align="center">ArullBotzMD<br></h1>
+<h1 align="center">ADiBotzMD<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/ae0bd3fb0166c41faa725.jpg" alt="animated" width="540" height="280" />
 </p>
