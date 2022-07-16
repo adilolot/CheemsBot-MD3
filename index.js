@@ -1,6 +1,6 @@
 //════════════════════════════//
-//Recode By ArullOfc 
-//Berasal dari sc Xeon Bot Inc. Cheems Bot MD
+//Recode By Adi botz 
+//Berasal dari sc Xeon Bot Inc. Adi Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //════════════════════════════//
@@ -28,7 +28,7 @@ const {
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
 
 async function startXeonBotInc() {
-console.log(color(figlet.textSync('Cheems Bot-MD', {
+console.log(color(figlet.textSync('Adi Bot-MD', {
 		font: 'Pagga',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
