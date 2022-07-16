@@ -1,6 +1,6 @@
 //════════════════════════════//
-//Recode By ArullOfc 
-//Berasal dari sc Xeon Bot Inc. Cheems Bot MD
+//Recode By Adi botz
+//Berasal dari sc Xeon Bot Inc. Adi Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 
@@ -39,8 +39,8 @@ global.author = "ArullBotz"
 global.themeemoji = "📀"
 global.reactmoji = "🗿"
 global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
+global.ownernummenu = ['6285766721335'] //ur owner number in menu and all
+global.watermark = "AdiBotz" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
 global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
 global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
